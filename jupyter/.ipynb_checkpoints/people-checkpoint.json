@@ -1,0 +1,1 @@
+"{\n  \"people\": [\n    {\n      \"coder\": false,\n      \"email\": [\n        \"jb@gmail.com\",\n        \"jb@workmail.com\"\n      ],\n      \"name\": \"Joe Blow\"\n    },\n    {\n      \"coder\": true,\n      \"email\": null,\n      \"name\": \"Jane Lee\"\n    }\n  ]\n}"
